@@ -1,0 +1,51 @@
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Context\bin\Debug\net7.0\SmartShop.Context.deps.json
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Context\bin\Debug\net7.0\SmartShop.Context.runtimeconfig.json
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Context\bin\Debug\net7.0\SmartShop.Context.dll
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Context\bin\Debug\net7.0\SmartShop.Context.pdb
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Context\bin\Debug\net7.0\SmartShop.Model.dll
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Context\bin\Debug\net7.0\SmartShop.Model.pdb
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Context\obj\Debug\net7.0\SmartShop.Context.csproj.AssemblyReference.cache
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Context\obj\Debug\net7.0\SmartShop.Context.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Context\obj\Debug\net7.0\SmartShop.Context.AssemblyInfoInputs.cache
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Context\obj\Debug\net7.0\SmartShop.Context.AssemblyInfo.cs
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Context\obj\Debug\net7.0\SmartShop.Context.csproj.CoreCompileInputs.cache
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Context\obj\Debug\net7.0\SmartShop.Context.csproj.CopyComplete
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Context\obj\Debug\net7.0\SmartShop.Context.dll
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Context\obj\Debug\net7.0\refint\SmartShop.Context.dll
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Context\obj\Debug\net7.0\SmartShop.Context.pdb
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Context\obj\Debug\net7.0\SmartShop.Context.genruntimeconfig.cache
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Context\obj\Debug\net7.0\ref\SmartShop.Context.dll
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Context\bin\Debug\net7.0\SmartShop.Context.deps.json
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Context\bin\Debug\net7.0\SmartShop.Context.runtimeconfig.json
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Context\bin\Debug\net7.0\SmartShop.Context.dll
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Context\bin\Debug\net7.0\SmartShop.Context.pdb
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Context\bin\Debug\net7.0\SmartShop.Model.dll
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Context\bin\Debug\net7.0\SmartShop.Model.pdb
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Context\obj\Debug\net7.0\SmartShop.Context.csproj.AssemblyReference.cache
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Context\obj\Debug\net7.0\SmartShop.Context.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Context\obj\Debug\net7.0\SmartShop.Context.AssemblyInfoInputs.cache
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Context\obj\Debug\net7.0\SmartShop.Context.AssemblyInfo.cs
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Context\obj\Debug\net7.0\SmartShop.Context.csproj.CoreCompileInputs.cache
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Context\obj\Debug\net7.0\SmartShop.Context.csproj.CopyComplete
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Context\obj\Debug\net7.0\SmartShop.Context.dll
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Context\obj\Debug\net7.0\refint\SmartShop.Context.dll
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Context\obj\Debug\net7.0\SmartShop.Context.pdb
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Context\obj\Debug\net7.0\SmartShop.Context.genruntimeconfig.cache
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Context\obj\Debug\net7.0\ref\SmartShop.Context.dll
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Context\bin\Debug\net7.0\SmartShop.Context.deps.json
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Context\bin\Debug\net7.0\SmartShop.Context.runtimeconfig.json
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Context\bin\Debug\net7.0\SmartShop.Context.dll
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Context\bin\Debug\net7.0\SmartShop.Context.pdb
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Context\bin\Debug\net7.0\SmartShop.Model.dll
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Context\bin\Debug\net7.0\SmartShop.Model.pdb
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Context\obj\Debug\net7.0\SmartShop.Context.csproj.AssemblyReference.cache
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Context\obj\Debug\net7.0\SmartShop.Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Context\obj\Debug\net7.0\SmartShop.Context.AssemblyInfoInputs.cache
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Context\obj\Debug\net7.0\SmartShop.Context.AssemblyInfo.cs
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Context\obj\Debug\net7.0\SmartShop.Context.csproj.CoreCompileInputs.cache
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Context\obj\Debug\net7.0\SmartShop.Context.csproj.CopyComplete
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Context\obj\Debug\net7.0\SmartShop.Context.dll
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Context\obj\Debug\net7.0\refint\SmartShop.Context.dll
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Context\obj\Debug\net7.0\SmartShop.Context.pdb
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Context\obj\Debug\net7.0\SmartShop.Context.genruntimeconfig.cache
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Context\obj\Debug\net7.0\ref\SmartShop.Context.dll

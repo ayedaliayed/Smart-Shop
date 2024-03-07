@@ -1,0 +1,63 @@
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Infrastructure\bin\Debug\net7.0\SmartShop.Infrastructure.deps.json
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Infrastructure\bin\Debug\net7.0\SmartShop.Infrastructure.dll
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Infrastructure\bin\Debug\net7.0\SmartShop.Infrastructure.pdb
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Infrastructure\bin\Debug\net7.0\SmartShop.Application1.dll
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Infrastructure\bin\Debug\net7.0\SmartShop.Context.dll
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Infrastructure\bin\Debug\net7.0\SmartShop.Dtos.dll
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Infrastructure\bin\Debug\net7.0\SmartShop.Model.dll
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Infrastructure\bin\Debug\net7.0\SmartShop.Application1.pdb
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Infrastructure\bin\Debug\net7.0\SmartShop.Context.pdb
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Infrastructure\bin\Debug\net7.0\SmartShop.Dtos.pdb
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Infrastructure\bin\Debug\net7.0\SmartShop.Model.pdb
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Infrastructure\obj\Debug\net7.0\SmartShop.Infrastructure.csproj.AssemblyReference.cache
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Infrastructure\obj\Debug\net7.0\SmartShop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Infrastructure\obj\Debug\net7.0\SmartShop.Infrastructure.AssemblyInfoInputs.cache
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Infrastructure\obj\Debug\net7.0\SmartShop.Infrastructure.AssemblyInfo.cs
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Infrastructure\obj\Debug\net7.0\SmartShop.Infrastructure.csproj.CoreCompileInputs.cache
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Infrastructure\obj\Debug\net7.0\SmartShop.Infrastructure.csproj.CopyComplete
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Infrastructure\obj\Debug\net7.0\SmartShop.Infrastructure.dll
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Infrastructure\obj\Debug\net7.0\refint\SmartShop.Infrastructure.dll
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Infrastructure\obj\Debug\net7.0\SmartShop.Infrastructure.pdb
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Infrastructure\obj\Debug\net7.0\ref\SmartShop.Infrastructure.dll
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Infrastructure\bin\Debug\net7.0\SmartShop.Infrastructure.deps.json
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Infrastructure\bin\Debug\net7.0\SmartShop.Infrastructure.dll
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Infrastructure\bin\Debug\net7.0\SmartShop.Infrastructure.pdb
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Infrastructure\bin\Debug\net7.0\SmartShop.Application1.dll
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Infrastructure\bin\Debug\net7.0\SmartShop.Context.dll
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Infrastructure\bin\Debug\net7.0\SmartShop.Dtos.dll
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Infrastructure\bin\Debug\net7.0\SmartShop.Model.dll
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Infrastructure\bin\Debug\net7.0\SmartShop.Application1.pdb
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Infrastructure\bin\Debug\net7.0\SmartShop.Context.pdb
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Infrastructure\bin\Debug\net7.0\SmartShop.Dtos.pdb
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Infrastructure\bin\Debug\net7.0\SmartShop.Model.pdb
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Infrastructure\obj\Debug\net7.0\SmartShop.Infrastructure.csproj.AssemblyReference.cache
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Infrastructure\obj\Debug\net7.0\SmartShop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Infrastructure\obj\Debug\net7.0\SmartShop.Infrastructure.AssemblyInfoInputs.cache
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Infrastructure\obj\Debug\net7.0\SmartShop.Infrastructure.AssemblyInfo.cs
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Infrastructure\obj\Debug\net7.0\SmartShop.Infrastructure.csproj.CoreCompileInputs.cache
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Infrastructure\obj\Debug\net7.0\SmartShop.Infrastructure.csproj.CopyComplete
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Infrastructure\obj\Debug\net7.0\SmartShop.Infrastructure.dll
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Infrastructure\obj\Debug\net7.0\refint\SmartShop.Infrastructure.dll
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Infrastructure\obj\Debug\net7.0\SmartShop.Infrastructure.pdb
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Infrastructure\obj\Debug\net7.0\ref\SmartShop.Infrastructure.dll
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Infrastructure\bin\Debug\net7.0\SmartShop.Infrastructure.deps.json
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Infrastructure\bin\Debug\net7.0\SmartShop.Infrastructure.dll
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Infrastructure\bin\Debug\net7.0\SmartShop.Infrastructure.pdb
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Infrastructure\bin\Debug\net7.0\SmartShop.Application1.dll
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Infrastructure\bin\Debug\net7.0\SmartShop.Context.dll
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Infrastructure\bin\Debug\net7.0\SmartShop.Dtos.dll
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Infrastructure\bin\Debug\net7.0\SmartShop.Model.dll
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Infrastructure\bin\Debug\net7.0\SmartShop.Application1.pdb
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Infrastructure\bin\Debug\net7.0\SmartShop.Context.pdb
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Infrastructure\bin\Debug\net7.0\SmartShop.Dtos.pdb
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Infrastructure\bin\Debug\net7.0\SmartShop.Model.pdb
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Infrastructure\obj\Debug\net7.0\SmartShop.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Infrastructure\obj\Debug\net7.0\SmartShop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Infrastructure\obj\Debug\net7.0\SmartShop.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Infrastructure\obj\Debug\net7.0\SmartShop.Infrastructure.AssemblyInfo.cs
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Infrastructure\obj\Debug\net7.0\SmartShop.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Infrastructure\obj\Debug\net7.0\SmartShop.Infrastructure.csproj.CopyComplete
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Infrastructure\obj\Debug\net7.0\SmartShop.Infrastructure.dll
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Infrastructure\obj\Debug\net7.0\refint\SmartShop.Infrastructure.dll
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Infrastructure\obj\Debug\net7.0\SmartShop.Infrastructure.pdb
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Infrastructure\obj\Debug\net7.0\ref\SmartShop.Infrastructure.dll

@@ -1,0 +1,35 @@
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Model\bin\Debug\net7.0\SmartShop.Model.deps.json
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Model\bin\Debug\net7.0\SmartShop.Model.dll
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Model\bin\Debug\net7.0\SmartShop.Model.pdb
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Model\obj\Debug\net7.0\SmartShop.Model.csproj.AssemblyReference.cache
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Model\obj\Debug\net7.0\SmartShop.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Model\obj\Debug\net7.0\SmartShop.Model.AssemblyInfoInputs.cache
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Model\obj\Debug\net7.0\SmartShop.Model.AssemblyInfo.cs
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Model\obj\Debug\net7.0\SmartShop.Model.csproj.CoreCompileInputs.cache
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Model\obj\Debug\net7.0\SmartShop.Model.dll
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Model\obj\Debug\net7.0\refint\SmartShop.Model.dll
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Model\obj\Debug\net7.0\SmartShop.Model.pdb
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Model\obj\Debug\net7.0\ref\SmartShop.Model.dll
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Model\bin\Debug\net7.0\SmartShop.Model.deps.json
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Model\bin\Debug\net7.0\SmartShop.Model.dll
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Model\bin\Debug\net7.0\SmartShop.Model.pdb
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Model\obj\Debug\net7.0\SmartShop.Model.csproj.AssemblyReference.cache
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Model\obj\Debug\net7.0\SmartShop.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Model\obj\Debug\net7.0\SmartShop.Model.AssemblyInfoInputs.cache
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Model\obj\Debug\net7.0\SmartShop.Model.AssemblyInfo.cs
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Model\obj\Debug\net7.0\SmartShop.Model.csproj.CoreCompileInputs.cache
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Model\obj\Debug\net7.0\SmartShop.Model.dll
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Model\obj\Debug\net7.0\refint\SmartShop.Model.dll
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Model\obj\Debug\net7.0\SmartShop.Model.pdb
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Model\obj\Debug\net7.0\ref\SmartShop.Model.dll
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Model\bin\Debug\net7.0\SmartShop.Model.deps.json
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Model\bin\Debug\net7.0\SmartShop.Model.dll
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Model\bin\Debug\net7.0\SmartShop.Model.pdb
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Model\obj\Debug\net7.0\SmartShop.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Model\obj\Debug\net7.0\SmartShop.Model.AssemblyInfoInputs.cache
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Model\obj\Debug\net7.0\SmartShop.Model.AssemblyInfo.cs
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Model\obj\Debug\net7.0\SmartShop.Model.csproj.CoreCompileInputs.cache
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Model\obj\Debug\net7.0\SmartShop.Model.dll
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Model\obj\Debug\net7.0\refint\SmartShop.Model.dll
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Model\obj\Debug\net7.0\SmartShop.Model.pdb
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Model\obj\Debug\net7.0\ref\SmartShop.Model.dll

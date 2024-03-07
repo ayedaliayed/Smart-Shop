@@ -1,0 +1,1 @@
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Presentation\obj\Debug\net7.0-windows\SmartShop.Presentation.csproj.AssemblyReference.cache

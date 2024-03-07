@@ -1,0 +1,51 @@
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Application1\bin\Debug\net7.0\SmartShop.Application1.deps.json
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Application1\bin\Debug\net7.0\SmartShop.Application1.dll
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Application1\bin\Debug\net7.0\SmartShop.Application1.pdb
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Application1\bin\Debug\net7.0\SmartShop.Dtos.dll
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Application1\bin\Debug\net7.0\SmartShop.Model.dll
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Application1\bin\Debug\net7.0\SmartShop.Dtos.pdb
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Application1\bin\Debug\net7.0\SmartShop.Model.pdb
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Application1\obj\Debug\net7.0\SmartShop.Application1.csproj.AssemblyReference.cache
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Application1\obj\Debug\net7.0\SmartShop.Application1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Application1\obj\Debug\net7.0\SmartShop.Application1.AssemblyInfoInputs.cache
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Application1\obj\Debug\net7.0\SmartShop.Application1.AssemblyInfo.cs
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Application1\obj\Debug\net7.0\SmartShop.Application1.csproj.CoreCompileInputs.cache
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Application1\obj\Debug\net7.0\SmartShop.Application1.csproj.CopyComplete
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Application1\obj\Debug\net7.0\SmartShop.Application1.dll
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Application1\obj\Debug\net7.0\refint\SmartShop.Application1.dll
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Application1\obj\Debug\net7.0\SmartShop.Application1.pdb
+D:\ITI 4_Moths\Visual C#\Test\SmartShop\SmartShop.Application1\obj\Debug\net7.0\ref\SmartShop.Application1.dll
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Application1\bin\Debug\net7.0\SmartShop.Application1.deps.json
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Application1\bin\Debug\net7.0\SmartShop.Application1.dll
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Application1\bin\Debug\net7.0\SmartShop.Application1.pdb
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Application1\bin\Debug\net7.0\SmartShop.Dtos.dll
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Application1\bin\Debug\net7.0\SmartShop.Model.dll
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Application1\bin\Debug\net7.0\SmartShop.Dtos.pdb
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Application1\bin\Debug\net7.0\SmartShop.Model.pdb
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Application1\obj\Debug\net7.0\SmartShop.Application1.csproj.AssemblyReference.cache
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Application1\obj\Debug\net7.0\SmartShop.Application1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Application1\obj\Debug\net7.0\SmartShop.Application1.AssemblyInfoInputs.cache
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Application1\obj\Debug\net7.0\SmartShop.Application1.AssemblyInfo.cs
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Application1\obj\Debug\net7.0\SmartShop.Application1.csproj.CoreCompileInputs.cache
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Application1\obj\Debug\net7.0\SmartShop.Application1.csproj.CopyComplete
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Application1\obj\Debug\net7.0\SmartShop.Application1.dll
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Application1\obj\Debug\net7.0\refint\SmartShop.Application1.dll
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Application1\obj\Debug\net7.0\SmartShop.Application1.pdb
+D:\ITI 4_Moths\Visual C#\SmartShop\SmartShop.Application1\obj\Debug\net7.0\ref\SmartShop.Application1.dll
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Application1\bin\Debug\net7.0\SmartShop.Application1.deps.json
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Application1\bin\Debug\net7.0\SmartShop.Application1.dll
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Application1\bin\Debug\net7.0\SmartShop.Application1.pdb
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Application1\bin\Debug\net7.0\SmartShop.Dtos.dll
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Application1\bin\Debug\net7.0\SmartShop.Model.dll
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Application1\bin\Debug\net7.0\SmartShop.Dtos.pdb
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Application1\bin\Debug\net7.0\SmartShop.Model.pdb
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Application1\obj\Debug\net7.0\SmartShop.Application1.csproj.AssemblyReference.cache
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Application1\obj\Debug\net7.0\SmartShop.Application1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Application1\obj\Debug\net7.0\SmartShop.Application1.AssemblyInfoInputs.cache
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Application1\obj\Debug\net7.0\SmartShop.Application1.AssemblyInfo.cs
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Application1\obj\Debug\net7.0\SmartShop.Application1.csproj.CoreCompileInputs.cache
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Application1\obj\Debug\net7.0\SmartShop.Application1.csproj.CopyComplete
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Application1\obj\Debug\net7.0\SmartShop.Application1.dll
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Application1\obj\Debug\net7.0\refint\SmartShop.Application1.dll
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Application1\obj\Debug\net7.0\SmartShop.Application1.pdb
+C:\Users\Firefox\Desktop\projectTeam\SmartShop\SmartShop\SmartShop.Application1\obj\Debug\net7.0\ref\SmartShop.Application1.dll
